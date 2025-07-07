@@ -31,7 +31,7 @@ jobs:
       - name: Install golangci-lint
         uses: golangci/golangci-lint-action@v8
         with:
-          version: v2.1.6 # TODO: set the appropriate version of golangci-lint
+          version: v2.2.1 # TODO: set the appropriate version of golangci-lint
           # Use the official action to download, but do not run it.
           args: --help
 
