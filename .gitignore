@@ -1,3 +1,6 @@
+# Build directory
+bin/
+
 # Go workspace files
 go.work
 go.work.sum
