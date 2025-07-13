@@ -1,3 +1,6 @@
+# .env (dotenv) files
+*.env
+
 # GoLand
 .idea/
 
