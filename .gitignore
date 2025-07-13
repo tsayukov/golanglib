@@ -1,3 +1,7 @@
+# Go workspace files
+go.work
+go.work.sum
+
 # .env (dotenv) files
 *.env
 
